@@ -140,6 +140,7 @@
         "blobfuse",
         "bmon",
         "bond",
+        "cassandra-cpp-driver",
         "ccache",
         "check-restart",
         "clamav",
